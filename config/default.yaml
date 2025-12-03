@@ -1,0 +1,39 @@
+# Default Configuration for Causal Saliency Attribution
+
+model:
+  classifier: "resnet50"
+  pretrained: true
+  device: "cuda"
+
+saliency:
+  method: "gradcam"
+  target_layer: "layer4"
+
+regions:
+  method: "sam"  # Options: sam, slic
+  sam_checkpoint: "sam_vit_h_4b8939.pth"
+  sam_model_type: "vit_h"
+  points_per_side: 32
+  slic_n_segments: 50
+  slic_compactness: 10
+  saliency_threshold: 0.3
+  top_k_regions: 5
+  context_margin: 0.2
+  min_region_size: 100
+
+concepts:
+  method: "clip"
+  clip_model: "ViT-L-14"
+  clip_prompt_template: "a photo of a {concept}"
+  vocabulary_path: "data/concept_vocabulary.json"
+
+counterfactual:
+  method: "blur"
+  blur_kernel_size: 51
+  blur_sigma: 25
+
+visualization:
+  output_dir: "results"
+  dpi: 150
+
+seed: 42

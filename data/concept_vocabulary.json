@@ -1,0 +1,23 @@
+{
+  "concepts": [
+    "wheel", "door", "window", "headlight", "mirror", "antenna",
+    "handle", "bumper", "license plate", "tire", "rim",
+    "head", "ear", "eye", "nose", "mouth", "snout", "tail",
+    "paw", "leg", "fur", "whiskers", "teeth", "tongue",
+    "fur texture", "metal", "glass", "plastic", "leather",
+    "wood", "fabric", "smooth surface", "rough texture",
+    "red color", "blue color", "green color", "yellow color",
+    "black color", "white color", "brown color", "gray color",
+    "stripes", "spots", "checkered pattern", "plain",
+    "face", "hair", "hand", "arm", "shoulder", "neck",
+    "shirt", "pants", "dress", "hat", "shoe", "jacket",
+    "tie", "button", "collar", "sleeve",
+    "sky", "cloud", "grass", "tree", "building", "road",
+    "pavement", "wall", "floor", "water",
+    "round shape", "square shape", "rectangular", "circular",
+    "triangular", "curved", "straight edge",
+    "feather", "beak", "wing", "claw", "shell", "scales",
+    "horn", "mane", "hoof", "fin", "trunk", "tusk"
+  ],
+  "count": 80
+}

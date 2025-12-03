@@ -1,0 +1,24 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pillow>=9.0.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+scikit-image>=0.21.0
+
+# CLIP
+open-clip-torch>=2.20.0
+
+# SAM (Segment Anything)
+segment-anything>=1.0
+
+# Streamlit demo
+streamlit>=1.28.0
+requests>=2.31.0
+
+# Config
+pyyaml>=6.0
+
+# Optional: for development
+tqdm>=4.65.0
