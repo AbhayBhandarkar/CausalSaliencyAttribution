@@ -1,6 +1,7 @@
 # Causal Saliency Attribution
 
 [![Paper](https://img.shields.io/badge/Paper-AAAI%20XAI4Science%202025-blue)](https://abhaybhandarkar.github.io/SemanticAttributionofSaliencyMaps)
+[![Project Page](https://img.shields.io/badge/Project-Page-orange)](https://abhaybhandarkar.github.io/SemanticAttributionofSaliencyMaps)
 [![Demo](https://img.shields.io/badge/Demo-Streamlit-FF4B4B)](https://huggingface.co/spaces/AbhayBhandarkar/SemanticSaliency)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -8,6 +9,8 @@
 
 *Abhay Bhandarkar*  
 *AAAI XAI4Science Workshop 2025*
+
+🌐 **[Project Page](https://abhaybhandarkar.github.io/SemanticAttributionofSaliencyMaps)** | 📄 **[Paper](https://abhaybhandarkar.github.io/SemanticAttributionofSaliencyMaps/static/pdfs/paper.pdf)**
 
 ---
 
