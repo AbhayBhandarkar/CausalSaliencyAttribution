@@ -8,7 +8,7 @@
 **Causal Quantification of Saliency Attributions via Semantic Decomposition and Counterfactual Validation**
 
 *Abhay Bhandarkar*  
-*AAAI XAI4Science Workshop 2025*
+*AAAI XAI4Science Workshop 2026*
 
 🌐 **[Project Page](https://abhaybhandarkar.github.io/SemanticAttributionofSaliencyMaps)** | 📄 **[Paper](https://abhaybhandarkar.github.io/SemanticAttributionofSaliencyMaps/static/pdfs/paper.pdf)**
 
